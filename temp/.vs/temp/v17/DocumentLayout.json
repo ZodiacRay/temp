@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\\uBBFC\uC131\\Documents\\GitHub\\temp\\temp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{194F4A6C-CE83-4A7C-941F-0EEE20A7A11D}|temp\\temp.vcxproj|C:\\Users\\\uBBFC\uC131\\Documents\\GitHub\\temp\\temp\\temp\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{194F4A6C-CE83-4A7C-941F-0EEE20A7A11D}|temp\\temp.vcxproj|solutionrelative:temp\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{194F4A6C-CE83-4A7C-941F-0EEE20A7A11D}|temp\\temp.vcxproj|C:\\Users\\\uBBFC\uC131\\Documents\\GitHub\\temp\\temp\\temp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{194F4A6C-CE83-4A7C-941F-0EEE20A7A11D}|temp\\temp.vcxproj|solutionrelative:temp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "temp.cpp",
-              "DocumentMoniker": "C:\\Users\\\uBBFC\uC131\\Documents\\GitHub\\temp\\temp\\temp\\temp.cpp",
-              "RelativeDocumentMoniker": "temp\\temp.cpp",
-              "ToolTip": "C:\\Users\\\uBBFC\uC131\\Documents\\GitHub\\temp\\temp\\temp\\temp.cpp",
-              "RelativeToolTip": "temp\\temp.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\uBBFC\uC131\\Documents\\GitHub\\temp\\temp\\temp\\main.cpp",
+              "RelativeDocumentMoniker": "temp\\main.cpp",
+              "ToolTip": "C:\\Users\\\uBBFC\uC131\\Documents\\GitHub\\temp\\temp\\temp\\main.cpp",
+              "RelativeToolTip": "temp\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-12T10:16:50.625Z",
               "EditorCaption": ""
